@@ -13,7 +13,7 @@
 - Manufactures Android Application
 
 ## Admin Panel
-it is developed by [Poulami bera](https://in.linkedin.com/in/poulami-bera-573aa8137?trk=people-guest_people_search-card "Poulami bera") , all backend work is done by her included API or Webservices developemnt.
+it is developed by [Poulami bera](https://in.linkedin.com/in/poulami-bera-573aa8137?trk=people-guest_people_search-card "Poulami bera") , all backend work is done by him included API or Webservices developemnt.
 
    #### **Admin Panel Includes**
 1.  **Advanced Dashboard with Analytics**
