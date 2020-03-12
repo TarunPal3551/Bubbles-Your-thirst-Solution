@@ -1,5 +1,9 @@
 # Bubbles-Your-thirst-Solution
-- it is an multi vendor based e-commerce system where customer can buy , distributor can delivery and manufactures can add products for    sell.[![Download from playstore](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png "Download from playstore")](https://play.google.com/store/apps/developer?id=BubblesWater&hl=en "Download from playstore")
+- it is an multi vendor based e-commerce system where customer can buy , distributor can delivery and manufactures can add products for    sell.
+
+
+
+[![Download from playstore](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png "Download from playstore")](https://play.google.com/store/apps/developer?id=BubblesWater&hl=en "Download from playstore")
 
 # Features
 **Table of Contents**
