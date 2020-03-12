@@ -30,7 +30,7 @@ it is developed by [Poulami bera](https://in.linkedin.com/in/poulami-bera-573aa8
 
 7. **Push Notification**
 
-8. ** Special Offers Management**
+8. **Special Offers Management**
 
 9. **Blogs and Articles**
 
